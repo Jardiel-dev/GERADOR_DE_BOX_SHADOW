@@ -2,7 +2,7 @@
 
 Aplicação web que permite gerar sombras CSS (`box-shadow`) de forma visual e interativa, facilitando o desenvolvimento de interfaces modernas.
 
-Link: 
+Link: https://jardiel-dev.github.io/GERADOR_DE_BOX_SHADOW/
 
 ---
 
